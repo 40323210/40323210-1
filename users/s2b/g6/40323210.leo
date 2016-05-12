@@ -14,7 +14,7 @@
 <v t="leo.20160512040945.2" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="leo.20160512040945.3"><vh>@button gh-pages pelican</vh></v>
 </v>
-<v t="leo.20160512040945.4"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20160512040945.4" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20160512040945.5"><vh>@button local pelican</vh></v>
 </v>
 <v t="leo.20160512040945.6"><vh>進入 content 目錄</vh></v>
